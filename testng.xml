@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/manma/Anul 3/Licenta/imobiliare360-server-main/src/test/java/com/emperia/ApplicationTests.java"><classes><class name="com.emperia.ApplicationTests"><methods><include name="contextLoads"/></methods></class></classes></test></suite>

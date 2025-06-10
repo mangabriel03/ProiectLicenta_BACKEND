@@ -1,0 +1,13 @@
+INSERT INTO roles (name) VALUES('ROLE_USER');
+INSERT INTO roles (name) VALUES('ROLE_ADMIN');
+
+INSERT INTO service_type(id,price_type,type)VALUES(1,'VARIABIL','GAS');
+INSERT INTO service_type(id,price_type,type)VALUES(2,'VARIABIL','ELECTRICITY');
+INSERT INTO service_type(id,price_type,type)VALUES(3,'FIX','MAINTENENCE');
+
+insert into bill_type values(1,'FIX');
+insert into bill_type values(2,'VARIABLE');
+insert into bill_status values(1,'PENDING');
+insert into bill_status values(2,'PAYED');
+insert into bill_status values(3,'EXPECTING_INPUT');
+insert into bill_status values(4,'CANCELD');
